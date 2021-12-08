@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76840332-6cb9-4724-b79a-7f3b5d546ee8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21xTNzab8Hf4V4e4cOIiAWTsbtN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lcn-provider1/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lcn.lcnprovider1.seata" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\课程\分布式事务\seata-0.9\code\lcn-provider1\src\main\resources" />
+      <recent name="E:\课程\分布式事务\seata-0.9\code\lcn-consumer\src\main\resources" />
+      <recent name="E:\课程\分布式事务\seata-0.9\code\lcn-consumer\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LcnProvider1Application">
+    <configuration name="LcnConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lcn-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lcn.lcnconsumer.LcnConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LcnProvider1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lcn-provider1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lcn.lcnprovider1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lcn.lcnprovider1.LcnProvider1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LcnProvider1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76840332-6cb9-4724-b79a-7f3b5d546ee8" name="Default Changelist" comment="" />
+      <created>1638881702620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638881702620</updated>
+      <workItem from="1638881704261" duration="16195000" />
+      <workItem from="1638933625550" duration="4015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1638882651167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1638882651167" />
+    <state x="997" y="218" width="470" height="583" key="#xdebugger.evaluate" timestamp="1638933742047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="997" y="218" width="470" height="583" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1638933742047" />
+    <state width="532" height="438" key="DebuggerActiveHint" timestamp="1638927762007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="532" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1638927762007" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1638932431506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638932431506" />
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom" timestamp="1638935215459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638935215459" />
+    <state width="1493" height="257" key="GridCell.Tab.0.center" timestamp="1638935215459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638935215459" />
+    <state width="1493" height="257" key="GridCell.Tab.0.left" timestamp="1638935215459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638935215459" />
+    <state width="1493" height="257" key="GridCell.Tab.0.right" timestamp="1638935215459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638935215459" />
+    <state width="1493" height="257" key="GridCell.Tab.1.bottom" timestamp="1638935362111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638935362111" />
+    <state width="1493" height="257" key="GridCell.Tab.1.center" timestamp="1638935362110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1638935362110" />
+    <state width="1493" height="257" key="GridCell.Tab.1.left" timestamp="1638935362110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1638935362110" />
+    <state width="1493" height="257" key="GridCell.Tab.1.right" timestamp="1638935362110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1638935362110" />
+    <state width="1493" height="257" key="GridCell.Tab.2.bottom" timestamp="1638935215394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638935215394" />
+    <state width="1493" height="257" key="GridCell.Tab.2.center" timestamp="1638935215393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1638935215393" />
+    <state width="1493" height="257" key="GridCell.Tab.2.left" timestamp="1638935215393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1638935215393" />
+    <state width="1493" height="257" key="GridCell.Tab.2.right" timestamp="1638935215393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1638935215393" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1638924877449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1638924877449" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1638933666844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1638933666844" />
+    <state x="301" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1638928341849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="301" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1638928341849" />
+    <state x="390" y="143" width="755" height="538" key="find.popup" timestamp="1638924872596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="390" y="143" width="755" height="538" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1638924872596" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1638928350198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1638928350198" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/mavenReport/io/seata/seata-all/0.9.0/seata-all-0.9.0-sources.jar!/io/seata/config/ConfigurationFactory.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
